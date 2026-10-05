@@ -1,0 +1,132 @@
+﻿match_id,match_date,kick_off,season,competition,competition_stage,match_week,opponent,venue,america_score,opponent_score,coach,stadium,match_status,match_status_360,result
+3889637,2023-07-01,01:00:00.000,2023/2024,Liga MX,Apertura,1,Juárez,Home,1,2,André Soares Jardine,Estadio Azteca,available,available,L
+3889660,2023-07-16,01:00:00.000,2023/2024,Liga MX,Apertura,3,Puebla,Home,3,0,André Soares Jardine,Estadio Azteca,available,available,W
+3889669,2023-08-21,03:10:00.000,2023/2024,Liga MX,Apertura,4,Atlas,Home,1,1,André Soares Jardine,Estadio Jalisco,available,available,D
+3889681,2023-08-24,01:00:00.000,2023/2024,Liga MX,Apertura,5,Necaxa,Home,3,2,André Soares Jardine,Estadio Azteca,available,available,W
+3889685,2023-08-27,01:00:00.000,2023/2024,Liga MX,Apertura,6,León,Home,1,1,André Soares Jardine,Estadio Azteca,available,available,D
+3889699,2023-09-03,03:10:00.000,2023/2024,Liga MX,Apertura,7,Cruz Azul,Away,3,2,André Soares Jardine,Estadio Azteca,available,available,W
+3889702,2023-09-17,03:10:00.000,2023/2024,Liga MX,Apertura,8,Guadalajara,Home,4,0,André Soares Jardine,Estadio Azteca,available,available,W
+3889653,2023-09-21,02:06:00.000,2023/2024,Liga MX,Apertura,2,Querétaro,Away,2,1,André Soares Jardine,Estadio La Corregidora,available,available,W
+3889715,2023-09-24,18:00:00.000,2023/2024,Liga MX,Apertura,9,Toluca,Away,1,1,André Soares Jardine,Estadio Nemesio Díez,available,available,D
+3889725,2023-10-01,00:40:00.000,2023/2024,Liga MX,Apertura,10,Pumas UNAM,Home,1,0,André Soares Jardine,Estadio Azteca,available,available,W
+3889728,2023-10-04,03:00:00.000,2023/2024,Liga MX,Apertura,11,Pachuca,Home,4,0,André Soares Jardine,Estadio Azteca,available,available,W
+3889732,2023-10-07,03:00:00.000,2023/2024,Liga MX,Apertura,12,Mazatlán,Away,2,1,André Soares Jardine,Estadio El Encanto,available,available,W
+3889744,2023-10-22,01:00:00.000,2023/2024,Liga MX,Apertura,13,Santos Laguna,Home,4,3,André Soares Jardine,Estadio Azteca,available,available,W
+3889758,2023-10-29,03:10:00.000,2023/2024,Liga MX,Apertura,14,Monterrey,Away,3,0,André Soares Jardine,Estadio BBVA,available,available,W
+3889769,2023-11-02,03:00:00.000,2023/2024,Liga MX,Apertura,15,Atlético San Luis,Away,1,0,André Soares Jardine,Estadio Alfonso Lastras Ramírez (San Luis Potosí),available,available,W
+3889775,2023-11-05,01:05:00.000,2023/2024,Liga MX,Apertura,16,Tijuana,Home,3,0,André Soares Jardine,Estadio Azteca,available,available,W
+3889786,2023-11-12,03:10:00.000,2023/2024,Liga MX,Apertura,17,Tigres UANL,Away,0,0,André Soares Jardine,Estadio Universitario de Nuevo León,available,available,D
+3917452,2023-11-30,01:06:00.000,2023/2024,Liga MX,Apertura - Quarter-finals,20,León,Away,2,2,André Soares Jardine,Estadio León,available,available,D
+3917453,2023-12-03,01:00:00.000,2023/2024,Liga MX,Apertura - Quarter-finals,21,León,Home,2,0,André Soares Jardine,Estadio Azteca,available,available,W
+3917856,2023-12-07,03:00:00.000,2023/2024,Liga MX,Semi-finals,22,Atlético San Luis,Away,5,0,André Soares Jardine,Estadio Alfonso Lastras Ramírez (San Luis Potosí),available,available,W
+3917858,2023-12-10,02:00:00.000,2023/2024,Liga MX,Semi-finals,23,Atlético San Luis,Home,0,2,André Soares Jardine,Estadio Azteca,available,available,L
+3918374,2023-12-15,03:00:00.000,2023/2024,Liga MX,Apertura - Final,24,Tigres UANL,Away,1,1,André Soares Jardine,Estadio Universitario de Nuevo León,available,available,D
+3918375,2023-12-18,01:30:00.000,2023/2024,Liga MX,Apertura - Final,25,Tigres UANL,Home,3,0,André Soares Jardine,Estadio Azteca,available,available,W
+3918957,2024-01-14,03:00:00.000,2023/2024,Liga MX,Clausura,1,Tijuana,Away,2,0,André Soares Jardine,Estadio Caliente,available,available,W
+3919103,2024-01-21,01:05:00.000,2023/2024,Liga MX,Clausura,2,Querétaro,Home,2,0,André Soares Jardine,Estadio Azteca,available,available,W
+3918969,2024-01-25,03:06:00.000,2023/2024,Liga MX,Clausura,4,Juárez,Away,2,0,André Soares Jardine,Estadio Olímpico Benito Juárez (Ciudad Juárez),available,available,W
+3918974,2024-01-28,03:05:00.000,2023/2024,Liga MX,Clausura,3,Necaxa,Away,0,0,André Soares Jardine,Estadio Victoria de Aguascalientes,available,available,D
+3918991,2024-02-04,03:10:00.000,2023/2024,Liga MX,Clausura,5,Monterrey,Home,1,1,André Soares Jardine,Estadio Azteca,available,available,D
+3919001,2024-02-11,01:00:00.000,2023/2024,Liga MX,Clausura,6,León,Away,1,0,André Soares Jardine,Estadio León,available,available,W
+3919008,2024-02-18,01:00:00.000,2023/2024,Liga MX,Clausura,7,Pachuca,Away,1,2,André Soares Jardine,Estadio Hidalgo,available,available,L
+3919016,2024-02-22,03:00:00.000,2023/2024,Liga MX,Clausura,9,Mazatlán,Home,2,2,André Soares Jardine,Estadio Azteca,available,available,D
+3919022,2024-02-25,03:10:00.000,2023/2024,Liga MX,Clausura,8,Cruz Azul,Home,1,0,André Soares Jardine,Estadio Azteca,available,available,W
+3919036,2024-03-03,03:10:00.000,2023/2024,Liga MX,Clausura,10,Atlas,Away,5,1,André Soares Jardine,Estadio Jalisco,available,available,W
+3919045,2024-03-10,03:00:00.000,2023/2024,Liga MX,Clausura,11,Tigres UANL,Home,2,0,André Soares Jardine,Estadio Azteca,available,available,W
+3919055,2024-03-17,03:05:00.000,2023/2024,Liga MX,Clausura,12,Guadalajara,Away,0,0,André Soares Jardine,Estadio Akron,available,available,D
+3919062,2024-03-30,02:00:00.000,2023/2024,Liga MX,Clausura,13,Atlético San Luis,Home,2,1,André Soares Jardine,Estadio Azteca,available,available,W
+3919069,2024-04-07,03:05:00.000,2023/2024,Liga MX,Clausura,14,Santos Laguna,Away,1,1,André Soares Jardine,Estadio Nuevo Corona,available,available,D
+3919081,2024-04-14,01:05:00.000,2023/2024,Liga MX,Clausura,15,Toluca,Home,5,1,André Soares Jardine,Estadio Azteca,available,available,W
+3919088,2024-04-21,03:10:00.000,2023/2024,Liga MX,Clausura,16,Pumas UNAM,Away,1,2,André Soares Jardine,Estadio Olímpico de Universitario (Ciudad de México),available,available,L
+3919094,2024-04-27,01:00:00.000,2023/2024,Liga MX,Clausura,17,Puebla,Away,2,1,André Soares Jardine,Estadio Cuauhtémoc,available,available,W
+3936617,2024-05-09,03:16:00.000,2023/2024,Liga MX,Clausura - Quarter-finals,20,Pachuca,Away,1,1,André Soares Jardine,Estadio Hidalgo,available,available,D
+3936618,2024-05-12,00:00:00.000,2023/2024,Liga MX,Clausura - Quarter-finals,21,Pachuca,Home,1,1,André Soares Jardine,Estadio Azteca,available,available,D
+3937184,2024-05-16,02:05:00.000,2023/2024,Liga MX,Clausura - Semi-finals,22,Guadalajara,Away,0,0,André Soares Jardine,Estadio Akron,available,available,D
+3937186,2024-05-19,02:00:00.000,2023/2024,Liga MX,Clausura - Semi-finals,23,Guadalajara,Home,1,0,André Soares Jardine,Estadio Azteca,available,available,W
+3937694,2024-05-24,02:00:00.000,2023/2024,Liga MX,Clausura - Finals,24,Cruz Azul,Away,1,1,André Soares Jardine,Estadio Ciudad de los Deportes,available,available,D
+3937695,2024-05-27,01:00:00.000,2023/2024,Liga MX,Clausura - Finals,25,Cruz Azul,Home,1,0,André Soares Jardine,Estadio Azteca,available,available,W
+3939819,2024-07-06,23:00:00.000,2024/2025,Liga MX,Apertura,1,Atlético San Luis,Away,1,2,André Soares Jardine,Estadio Alfonso Lastras Ramírez (San Luis Potosí),available,available,L
+3939825,2024-07-13,01:00:00.000,2024/2025,Liga MX,Apertura,2,Querétaro,Home,3,1,André Soares Jardine,Estadio Ciudad de los Deportes,available,available,W
+3939841,2024-07-18,03:00:00.000,2024/2025,Liga MX,Apertura,3,Tigres UANL,Away,0,1,André Soares Jardine,Estadio Universitario de Nuevo León,available,available,L
+3939848,2024-07-21,03:10:00.000,2024/2025,Liga MX,Apertura,4,Juárez,Away,2,1,André Soares Jardine,Estadio Olímpico Benito Juárez (Ciudad Juárez),available,available,W
+3939859,2024-08-25,03:05:00.000,2024/2025,Liga MX,Apertura,5,Puebla,Home,0,1,André Soares Jardine,Estadio Ciudad de los Deportes,available,available,L
+3939867,2024-09-01,03:10:00.000,2024/2025,Liga MX,Apertura,6,Cruz Azul,Away,1,4,André Soares Jardine,Estadio Ciudad de los Deportes,available,available,L
+3939876,2024-09-15,00:30:00.000,2024/2025,Liga MX,Apertura,7,Guadalajara,Home,1,0,André Soares Jardine,Estadio Ciudad de los Deportes,available,available,W
+3939883,2024-09-18,01:00:00.000,2024/2025,Liga MX,Apertura,8,Atlas,Home,3,0,André Soares Jardine,Estadio Ciudad de los Deportes,available,available,W
+3939892,2024-09-22,01:00:00.000,2024/2025,Liga MX,Apertura,9,Necaxa,Away,1,1,André Soares Jardine,Estadio Victoria de Aguascalientes,available,available,D
+3939905,2024-09-30,00:00:00.000,2024/2025,Liga MX,Apertura,10,Pumas UNAM,Home,0,1,André Soares Jardine,Estadio Ciudad de los Deportes,available,available,L
+3939911,2024-10-06,03:00:00.000,2024/2025,Liga MX,Apertura,11,León,Away,1,1,André Soares Jardine,Estadio León,available,available,D
+3939923,2024-10-20,01:05:00.000,2024/2025,Liga MX,Apertura,12,Santos Laguna,Home,3,0,André Soares Jardine,Estadio Ciudad de los Deportes,available,available,W
+3939933,2024-10-24,03:05:00.000,2024/2025,Liga MX,Apertura,13,Tijuana,Away,2,2,André Soares Jardine,Estadio Caliente,available,available,D
+3939941,2024-10-28,02:05:00.000,2024/2025,Liga MX,Apertura,14,Monterrey,Home,2,1,André Soares Jardine,Estadio Azteca,available,available,W
+3939943,2024-11-02,03:00:00.000,2024/2025,Liga MX,Apertura,15,Mazatlán,Away,5,0,André Soares Jardine,Estadio El Encanto,available,available,W
+3939959,2024-11-07,01:00:00.000,2024/2025,Liga MX,Apertura,16,Pachuca,Home,2,1,André Soares Jardine,Estadio Cuauhtémoc,available,available,W
+3939915,2024-11-10,01:00:00.000,2024/2025,Liga MX,Apertura,17,Toluca,Away,0,4,André Soares Jardine,Estadio Nemesio Díez,available,available,L
+3968407,2024-11-22,03:00:00.000,2024/2025,Liga MX,Play-offs - Semi-Finals,18,Tijuana,Away,2,2,André Soares Jardine,Estadio Caliente,available,available,D
+3969391,2024-11-28,01:00:00.000,2024/2025,Liga MX,Apertura - Quarter-finals,20,Toluca,Home,2,0,André Soares Jardine,Estadio Ciudad de los Deportes,available,available,W
+3969395,2024-11-30,23:00:00.000,2024/2025,Liga MX,Apertura - Quarter-finals,21,Toluca,Away,2,0,André Soares Jardine,Estadio Nemesio Díez,available,available,W
+3970307,2024-12-06,02:00:00.000,2024/2025,Liga MX,Apertura - Semi-finals,22,Cruz Azul,Home,0,0,André Soares Jardine,Estadio Ciudad de los Deportes,available,available,D
+3970308,2024-12-09,01:00:00.000,2024/2025,Liga MX,Apertura - Semi-finals,23,Cruz Azul,Away,4,3,André Soares Jardine,Estadio Ciudad de los Deportes,available,available,W
+3971432,2024-12-13,02:00:00.000,2024/2025,Liga MX,Finals,24,Monterrey,Home,2,1,André Soares Jardine,Estadio Cuauhtémoc,available,available,W
+3971433,2024-12-16,01:00:00.000,2024/2025,Liga MX,Finals,25,Monterrey,Away,1,1,André Soares Jardine,Estadio BBVA,available,available,D
+3972016,2025-01-11,01:00:00.000,2024/2025,Liga MX,Clausura,1,Querétaro,Away,1,0,Diego Alberto Cervantes Chávez,Estadio La Corregidora,available,available,W
+3972023,2025-01-17,02:10:00.000,2024/2025,Liga MX,Clausura,2,Tijuana,Home,1,1,Diego Alberto Cervantes Chávez,Estadio Ciudad de los Deportes,available,available,D
+3972039,2025-01-26,01:05:00.000,2024/2025,Liga MX,Clausura,3,Santos Laguna,Away,4,1,André Soares Jardine,Estadio Nuevo Corona,available,available,W
+3972043,2025-01-29,01:00:00.000,2024/2025,Liga MX,Clausura,4,Atlético San Luis,Home,3,0,André Soares Jardine,Estadio Ciudad de los Deportes,available,available,W
+3972053,2025-02-01,23:00:00.000,2024/2025,Liga MX,Clausura,5,Juárez,Home,4,0,André Soares Jardine,Estadio Ciudad de los Deportes,available,available,W
+3972062,2025-02-08,03:00:00.000,2024/2025,Liga MX,Clausura,6,Puebla,Away,2,1,André Soares Jardine,Estadio Cuauhtémoc,available,available,W
+3972074,2025-02-15,03:00:00.000,2024/2025,Liga MX,Clausura,7,Necaxa,Home,2,3,André Soares Jardine,Estadio Ciudad de los Deportes,available,available,L
+3972080,2025-02-20,01:00:00.000,2024/2025,Liga MX,Clausura,9,León,Home,1,1,André Soares Jardine,Estadio Ciudad de los Deportes,available,available,D
+3972087,2025-02-23,03:05:00.000,2024/2025,Liga MX,Clausura,8,Pumas UNAM,Away,2,0,André Soares Jardine,Estadio Olímpico de Universitario (Ciudad de México),available,available,W
+3972100,2025-03-01,23:00:00.000,2024/2025,Liga MX,Clausura,10,Toluca,Home,3,0,André Soares Jardine,Estadio Ciudad de los Deportes,available,available,W
+3972111,2025-03-09,03:05:00.000,2024/2025,Liga MX,Clausura,11,Guadalajara,Away,0,0,André Soares Jardine,Estadio Akron,available,available,D
+3972118,2025-03-16,03:05:00.000,2024/2025,Liga MX,Clausura,12,Atlas,Away,3,1,André Soares Jardine,Estadio Jalisco,available,available,W
+3972127,2025-03-30,01:05:00.000,2024/2025,Liga MX,Clausura,13,Tigres UANL,Home,3,0,André Soares Jardine,Estadio Ciudad de los Deportes,available,available,W
+3972136,2025-04-05,23:00:00.000,2024/2025,Liga MX,Clausura,14,Pachuca,Away,0,1,André Soares Jardine,Estadio Hidalgo,available,available,L
+3972145,2025-04-13,03:15:00.000,2024/2025,Liga MX,Clausura,15,Cruz Azul,Home,0,0,André Soares Jardine,Estadio Ciudad de los Deportes,available,available,D
+3972155,2025-04-17,01:00:00.000,2024/2025,Liga MX,Clausura,16,Monterrey,Away,0,1,André Soares Jardine,Estadio BBVA,available,available,L
+3972162,2025-04-19,23:00:00.000,2024/2025,Liga MX,Clausura,17,Mazatlán,Home,5,0,André Soares Jardine,Estadio Ciudad de los Deportes,available,available,W
+3993382,2025-05-08,03:10:00.000,2024/2025,Liga MX,Quarter-finals,19,Pachuca,Away,0,0,André Soares Jardine,Estadio Hidalgo,available,available,D
+3993383,2025-05-11,03:10:00.000,2024/2025,Liga MX,Quarter-finals,20,Pachuca,Home,2,0,André Soares Jardine,Estadio Ciudad de los Deportes,available,available,W
+3994837,2025-05-16,02:00:00.000,2024/2025,Liga MX,Clausura - Semi-finals,21,Cruz Azul,Away,0,1,André Soares Jardine,Estadio Olímpico de Universitario (Ciudad de México),available,available,L
+3994839,2025-05-19,01:15:00.000,2024/2025,Liga MX,Clausura - Semi-finals,22,Cruz Azul,Home,2,1,André Soares Jardine,Estadio Ciudad de los Deportes,available,available,W
+3995373,2025-05-23,02:00:00.000,2024/2025,Liga MX,Clausura - Final,23,Toluca,Home,0,0,André Soares Jardine,Estadio Ciudad de los Deportes,available,available,D
+3995374,2025-05-26,01:00:00.000,2024/2025,Liga MX,Clausura - Final,24,Toluca,Away,0,2,André Soares Jardine,Estadio Nemesio Díez,available,available,L
+4004042,2025-07-12,03:00:00.000,2025/2026,Liga MX,Apertura,1,Juárez,Away,1,1,André Soares Jardine,Estadio Olímpico Benito Juárez (Ciudad Juárez),available,available,D
+4004049,2025-07-17,01:00:00.000,2025/2026,Liga MX,Apertura,2,Tijuana,Home,3,1,André Soares Jardine,Estadio Ciudad de los Deportes,available,available,W
+4004065,2025-07-27,03:05:00.000,2025/2026,Liga MX,Apertura,3,Necaxa,Away,1,1,André Soares Jardine,Estadio Victoria de Aguascalientes,available,available,D
+4004068,2025-08-10,01:00:00.000,2025/2026,Liga MX,Apertura,4,Querétaro,Home,1,0,André Soares Jardine,Estadio Ciudad de los Deportes,available,available,W
+4004081,2025-08-17,01:00:00.000,2025/2026,Liga MX,Apertura,5,Tigres UANL,Away,3,1,André Soares Jardine,Estadio Universitario de Nuevo León,available,available,W
+4004093,2025-08-25,01:05:00.000,2025/2026,Liga MX,Apertura,6,Atlas,Away,4,2,André Soares Jardine,Estadio Jalisco,available,available,W
+4004100,2025-08-31,03:05:00.000,2025/2026,Liga MX,Apertura,7,Pachuca,Home,2,0,André Soares Jardine,Estadio Ciudad de los Deportes,available,available,W
+4004103,2025-09-14,03:15:00.000,2025/2026,Liga MX,Apertura,8,Guadalajara,Home,1,2,André Soares Jardine,Estadio Ciudad de los Deportes,available,available,L
+4004119,2025-09-21,03:05:00.000,2025/2026,Liga MX,Apertura,9,Monterrey,Away,2,2,André Soares Jardine,Estadio BBVA,available,available,D
+4004130,2025-09-25,03:00:00.000,2025/2026,Liga MX,Apertura,10,Atlético San Luis,Away,1,0,André Soares Jardine,Estadio Alfonso Lastras Ramírez (San Luis Potosí),available,available,W
+4004135,2025-09-28,03:05:00.000,2025/2026,Liga MX,Apertura,11,Pumas UNAM,Home,4,1,André Soares Jardine,Estadio Ciudad de los Deportes,available,available,W
+4004146,2025-10-05,03:05:00.000,2025/2026,Liga MX,Apertura,12,Santos Laguna,Home,3,0,André Soares Jardine,Estadio Ciudad de los Deportes,available,available,W
+4004153,2025-10-19,03:05:00.000,2025/2026,Liga MX,Apertura,13,Cruz Azul,Away,1,2,André Soares Jardine,Estadio Olímpico de Universitario (Ciudad de México),available,available,L
+4004158,2025-10-22,01:00:00.000,2025/2026,Liga MX,Apertura,14,Puebla,Home,2,1,André Soares Jardine,Estadio Ciudad de los Deportes,available,available,W
+4004168,2025-10-25,03:00:00.000,2025/2026,Liga MX,Apertura,15,Mazatlán,Away,2,2,André Soares Jardine,Estadio El Encanto,available,available,D
+4004181,2025-11-02,03:10:00.000,2025/2026,Liga MX,Apertura,16,León,Home,2,0,André Soares Jardine,Estadio Ciudad de los Deportes,available,available,W
+4004190,2025-11-09,01:00:00.000,2025/2026,Liga MX,Apertura,17,Toluca,Away,0,2,André Soares Jardine,Estadio Nemesio Díez,available,available,L
+4035933,2025-11-27,03:05:00.000,2025/2026,Liga MX,Apertura - Quarter-finals,20,Monterrey,Away,0,2,André Soares Jardine,Estadio BBVA,available,available,L
+4035934,2025-11-29,23:00:00.000,2025/2026,Liga MX,Apertura - Quarter-finals,21,Monterrey,Home,2,1,André Soares Jardine,Estadio Ciudad de los Deportes,available,available,W
+4038803,2026-01-10,03:00:00.000,2025/2026,Liga MX,Clausura,1,Tijuana,Away,0,0,André Soares Jardine,Estadio Caliente,available,available,D
+4038818,2026-01-15,01:05:00.000,2025/2026,Liga MX,Clausura,2,Atlético San Luis,Home,0,2,André Soares Jardine,Estadio Ciudad de los Deportes,available,available,L
+4038827,2026-01-19,01:06:00.000,2025/2026,Liga MX,Clausura,3,Pachuca,Away,0,0,André Soares Jardine,Estadio Hidalgo,available,available,D
+4038834,2026-01-31,22:00:00.000,2025/2026,Liga MX,Clausura,4,Necaxa,Home,2,0,André Soares Jardine,Estadio Ciudad de los Deportes,available,available,W
+4038841,2026-02-08,03:10:00.000,2025/2026,Liga MX,Clausura,5,Monterrey,Home,1,0,André Soares Jardine,Estadio Ciudad de los Deportes,available,available,W
+4038852,2026-02-15,03:07:00.000,2025/2026,Liga MX,Clausura,6,Guadalajara,Away,0,1,André Soares Jardine,Estadio Akron,available,available,L
+4038856,2026-02-21,03:06:00.000,2025/2026,Liga MX,Clausura,7,Puebla,Away,4,0,André Soares Jardine,Estadio Cuauhtémoc,available,unscheduled,W
+4038871,2026-03-01,03:10:00.000,2025/2026,Liga MX,Clausura,8,Tigres UANL,Home,1,4,André Soares Jardine,Estadio Ciudad de los Deportes,available,available,L
+4038878,2026-03-05,03:00:00.000,2025/2026,Liga MX,Clausura,9,Juárez,Home,1,2,André Soares Jardine,Estadio Ciudad de los Deportes,available,available,L
+4038888,2026-03-07,23:00:00.000,2025/2026,Liga MX,Clausura,10,Querétaro,Away,2,1,André Soares Jardine,Estadio La Corregidora,available,available,W
+4038898,2026-03-16,01:00:00.000,2025/2026,Liga MX,Clausura,11,Mazatlán,Home,2,0,André Soares Jardine,Estadio Ciudad de los Deportes,available,available,W
+4038904,2026-03-22,03:10:00.000,2025/2026,Liga MX,Clausura,12,Pumas UNAM,Away,0,1,André Soares Jardine,Estadio Olímpico de Universitario (Ciudad de México),available,available,L
+4038915,2026-04-05,03:10:00.000,2025/2026,Liga MX,Clausura,13,Santos Laguna,Away,1,1,André Soares Jardine,Estadio Nuevo Corona,available,available,D
+4038920,2026-04-12,03:05:00.000,2025/2026,Liga MX,Clausura,14,Cruz Azul,Home,1,1,André Soares Jardine,Estadio Azteca,available,available,D
+4038931,2026-04-19,03:10:00.000,2025/2026,Liga MX,Clausura,15,Toluca,Home,2,1,André Soares Jardine,Estadio Azteca,available,available,W
+4038936,2026-04-22,03:06:00.000,2025/2026,Liga MX,Clausura,16,León,Away,3,2,André Soares Jardine,Estadio León,available,available,W
+4038946,2026-04-26,03:10:00.000,2025/2026,Liga MX,Clausura,17,Atlas,Home,0,1,André Soares Jardine,Estadio Azteca,available,available,L
+4057778,2026-05-03,23:00:00.000,2025/2026,Liga MX,Clausura - Quarter-finals,18,Pumas UNAM,Home,3,3,André Soares Jardine,Estadio Azteca,available,available,D
+4057783,2026-05-11,01:15:00.000,2025/2026,Liga MX,Clausura - Quarter-finals,19,Pumas UNAM,Away,3,3,André Soares Jardine,Estadio Olímpico de Universitario (Ciudad de México),available,available,D
