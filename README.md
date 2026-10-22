@@ -1,6 +1,8 @@
 # ⚽ Lucho FC | Football Tactical Analytics
 
-##📌 Descripción del proyecto
+
+
+## 📌 Descripción del proyecto
 
 Lucho FC es un proyecto de análisis de datos deportivos desarrollado en el marco del ITAM Sports Analytics Conference Hackathon 2026. Su objetivo es transformar los datos de eventos de fútbol de Hudl StatsBomb en conocimiento táctico, identificando los principios de juego, patrones de comportamiento y ajustes estratégicos que definen la identidad del Club América a lo largo de múltiples partidos.
 
