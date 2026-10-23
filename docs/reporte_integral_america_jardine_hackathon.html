@@ -73,7 +73,27 @@
             max-width: 880px;
             margin: 0 auto 28px auto;
         }
-
+        .redes{
+            color: #cbd5e1;
+            text-decoration: none;
+            position: relative;  
+            display: inline-block;
+        }
+        .redes::after{
+            /* text-decoration: underline; */
+            content: '';
+            position: absolute;
+            width: 100%;
+            height: 2px; 
+            bottom: -2px;
+            left: 0;
+            background-color: #cbd5e1;
+            transform: scaleX(0);
+            transition: transform 0.3s ease-in-out;
+        }
+        .redes:hover::after{
+            transform: scaleX(1);
+        }
         .kpi-banner {
             display: flex;
             justify-content: center;
@@ -486,6 +506,8 @@
     <div class="hackathon-badge">Hackathon ITAM Sports Analytics 2026 &bull; Club América</div>
     <h1>América bajo André Jardine: Comportamiento Colectivo, Finalización e Inteligencia Táctica de Pases</h1>
     <p>Reporte integral homologado a partir de eventos de Hudl StatsBomb (<code>statsbombpy</code>): desde la exploración de posesiones y remates hasta la caracterización espacial de vulnerabilidad y eficiencia táctica en 131 partidos.</p>
+    <p>Reporte Desarrollado por <a class="redes" href="https://www.linkedin.com/in/miguelims">Miguel Figueroa Aguilar</a> en el marco del hackathon ISAC 2026</p>
+    <p>Consulta el desarrollo del proyecto en el <a href="https://github.com/MiguelFigueroa02/ITAM_Sport_Lucho_FC.git" class="redes">repositorio de Github</a></p>
     <div class="kpi-banner">
         <div class="kpi-pill">
             <strong>5.07 Pases</strong>
@@ -533,10 +555,9 @@
         <span>Contexto del Hackathon, Métricas Colectivas y Modelo Preliminar de Finalización</span>
     </div>
 
-    <!-- SECCIÓN 1: RESUMEN EJECUTIVO Y PREGUNTA DE ANÁLISIS -->
     <section id="contexto">
         <span class="section-tag gold">Módulo 1 &bull; Planteamiento del Estudio</span>
-        <h2>1. Resumen Ejecutivo y Pregunta de Análisis</h2>
+        <h2>1. Descripción de nuestro proyecto</h2>
         <p>El objetivo central de este proyecto dentro del <strong>Hackathon ITAM Sports Analytics 2026</strong> es traducir los eventos registrados por <strong>Hudl StatsBomb</strong> en una narrativa clara y rigurosa sobre el comportamiento táctico del <strong>Club América bajo la dirección de André Jardine bajo su etapa del 2023 al 2026</strong>: cómo funcionó su equipo, cómo era su progresión en el campo, cómo generaba ocasiones de gol, dónde recupera el balón y cómo se adapta según el contexto del partido.</p>
 
         <blockquote>
@@ -566,6 +587,7 @@
         <ul>
             <li><strong>Volumen de circulación:</strong> El equipo registra un promedio documentado de <strong>5.07 pases por posesión</strong> (<strong>5.04 en victorias</strong> frente a <strong>5.26 en derrotas</strong>), demostrando que acumular más pases por secuencia no garantiza por sí solo un mejor resultado.</li>
             <li><strong>Valor de las acciones (OBV Neto):</strong> Mientras que el volumen bruto de pases no separa victorias de derrotas, el valor añadido con balón (<em>On-Ball Value</em>) muestra una diferencia clara: <strong>+1.261 en victorias</strong>, <strong>+0.233 en empates</strong> y <strong>&minus;0.607 en derrotas</strong>.</li>
+            <img src="https://raw.githubusercontent.com/MiguelFigueroa02/ITAM_Sport_Lucho_FC/refs/heads/main/images/Balance%20ofensivo%20obv.png" alt="Boxplot Obv" width="70%">
             <li><strong>Exploración de finalización:</strong> La evaluación preliminar sobre <strong>121 remates</strong> del conjunto de prueba mediante un modelo <em>Random Forest</em> arrojó un <strong>Brier Score de 0.0247</strong> y un <strong>Log-loss de 0.1285</strong>, sirviendo como base exploratoria para analizar la calidad de las ejecuciones a portería.</li>
         </ul>
     </section>
@@ -1186,3 +1208,4 @@
 
 </body>
 </html>
+
